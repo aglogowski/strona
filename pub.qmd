@@ -1,5 +1,34 @@
 ---
-  title: "publications"
+title: "Publications"
+description: "Selected publications and research outputs by Arkadiusz Glogowski."
 ---
-  
-  About this site
+
+<p class="eyebrow">Research output</p>
+
+# Publications
+
+This page is ready for a curated list of publications. The structure below keeps each entry readable and leaves room for DOI, repository, or project links as the list grows.
+
+## Selected publications
+
+::: {.publication-list}
+::: {.publication}
+<span class="publication-year">2024</span>
+<div>
+<h3>Research outputs in climate, water, and agricultural systems</h3>
+<p>Add publication title, authors, journal, and links here.</p>
+</div>
+:::
+::: {.publication}
+<span class="publication-year">2023</span>
+<div>
+<h3>Research outputs from the WATERAGRI project</h3>
+<p>Add publication title, authors, journal, and links here.</p>
+</div>
+:::
+:::
+
+## Profiles
+
+- [ResearchGate](https://www.researchgate.net/profile/Arkadiusz-Glogowski)
+- [Google Scholar](https://scholar.google.com/)

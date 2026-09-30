@@ -1,21 +1,35 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "Testowa Super Strona"
+  title: "Arkadiusz Glogowski"
+  description: "Researcher in bioclimatology, agricultural water management, and environmental data science."
   navbar:
     left:
       - href: index.qmd
-        text: Home
-        pub.qmd
-      - about.qmd
+        text: About
+      - href: pub.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/bczernecki/climate
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:arkadiusz.glogowski@upwr.edu.pl
+        aria-label: Email
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, styles.css]
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    smooth-scroll: true
 
 
 

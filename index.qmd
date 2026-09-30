@@ -1,7 +1,76 @@
 ---
-title: "To jest moja strona internetowa"
+title: "Arkadiusz Glogowski"
+subtitle: "Bioclimatologist & environmental data scientist"
+description: "Research on climate, agricultural water management, and sustainable nitrogen fertilization."
 ---
 
-This is a Quarto website.
+::: {.hero-grid}
+::: {.hero-copy}
+<p class="eyebrow">Researcher · developer · collaborator</p>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Understanding climate, water, and agricultural systems
+
+I work at the intersection of **biometeorology, hydrology, and reproducible environmental data**. My research connects long-term climate records with practical tools for understanding and managing agricultural landscapes.
+
+<div class="hero-links">
+<a class="button-link" href="pub.qmd">Explore publications <span>↗</span></a>
+<a class="text-link" href="https://www.researchgate.net/profile/Arkadiusz-Glogowski">ResearchGate ↗</a>
+</div>
+:::
+
+::: {.hero-aside}
+<p class="aside-label">Currently</p>
+<p class="aside-title">Postdoc</p>
+<p>University of Basel, CH</p>
+<p class="aside-title">Assistant Professor</p>
+<p>Wroclaw University of Environmental and Life Sciences, PL</p>
+:::
+:::
+
+## Research interest
+
+My research and interests in the past were related to Biometeorology and Climate Change where I created a 3-D phase space model based on 120-year meteorological measurements, which allowed to develop an algorithm for reconstructing the biometeorological conditions for places without measurements history. Then I was involved in the [H2020 WATERAGRI](https://wateragri.eu/) project, where I was responsible for creating ISSH model in HydroGeoSphere for an agricultural catchment with a data assimilation framework.
+
+I am currently working on sustainable nitrogen fertilization for agricultural crops as a part of [SUNIMO](https://www.ncn.gov.pl/en/aktualnosci/2023-07-26-wyniki-opus-lap-szwajcaria) project and the creation of a European database for Agricultural management using AI ([FARMWISE](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/986100255/project/101135533/program/43108390/details) - HORIZON EUROPE).
+
+I am also a developer of [R package Climate](https://github.com/bczernecki/climate), which allows users to obtain in-situ meteorological and hydrological data from publicly available repositories.
+
+## At a glance
+
+::: {.fact-grid}
+::: {.fact}
+<span class="fact-number">120</span>
+<span class="fact-label">years of meteorological measurements modelled</span>
+:::
+::: {.fact}
+<span class="fact-number">3-D</span>
+<span class="fact-label">phase space approach to biometeorology</span>
+:::
+::: {.fact}
+<span class="fact-number">R</span>
+<span class="fact-label">open-source tools for environmental data</span>
+:::
+:::
+
+## Academic appointments
+
+| Period | Role |
+|:--|:--|
+| Since 2024 | Postdoc, University of Basel, CH |
+| Since 2024 | Assistant Professor, [Wroclaw University of Environmental and Life Sciences](https://bazawiedzy.upwr.edu.pl/info.seam?ps=20&id=UPWra8c638a51c16441e9f1d79e18486dc86&lang=en&pn=1&cid=40175), PL |
+| 2020 - 2023 | Assistant Professor, Wroclaw University of Environmental and Life Sciences, PL; WATERAGRI HORIZON 2020 project |
+| 2016 - 2022 | PhD Student, Wroclaw University of Environmental and Life Sciences, PL |
+
+## Education
+
+| Period | Degree |
+|:--|:--|
+| 2016 - 2021 | PhD in Bioclimatology, UPWR, PL |
+| 2011 - 2016 | BSc & MSc in Water Management, UPWR, PL |
+
+## Fellowships and awards
+
+- 01-07.2021 - Internship at Universite de Neuchatel, founded by [WATERAGRI](https://wateragri.eu/) and [UPWR](http://upwr.edu.pl/)
+- 03.2020 - Internship at the University of Edinburgh, [NAWA-PROM](https://nawa.gov.pl/en/institutions/prom-programme)
+- 08.2019 - Internship at the University of Edinburgh, UPWR
+- 04-05.2019 - Internship at the University of Edinburgh, UPWR
