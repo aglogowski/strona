@@ -1,16 +1,93 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "To jest moja strona internetowa",
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Open source"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "software.html#climate",
+    "href": "software.html#climate",
+    "title": "Software",
+    "section": "Climate",
+    "text": "Climate\n\n\nR\n\n\n\nR package · open source\n\n\nClimate\n\n\nObtain in-situ meteorological and hydrological data from publicly available repositories. The package is designed to make common climate data workflows more direct and reproducible.\n\nView on GitHub ↗"
+  },
+  {
+    "objectID": "software.html#what-i-care-about-in-software",
+    "href": "software.html#what-i-care-about-in-software",
+    "title": "Software",
+    "section": "What I care about in software",
+    "text": "What I care about in software\n\n\n01\n\nReproducibility\n\n\nClear workflows that can be revisited, shared, and extended.\n\n\n\n02\n\nAccess\n\n\nPublic data and open tools that lower the barrier to environmental analysis.\n\n\n\n03\n\nPracticality\n\n\nSoftware shaped by real research questions and working datasets."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Collaborative research\n\n\nProjects\nMy work brings together climate data, hydrological models, agricultural management, and decision-support tools.\n\n\nCurrent · HORIZON EUROPE\n\nFARMWISE\n\n\nCreation of a European database for agricultural management using artificial intelligence.\n\nProject details ↗\n\n\nCurrent · NCN OPUS LAP\n\nSUNIMO\n\n\nSustainable nitrogen fertilization for agricultural crops, connecting field practice with better environmental evidence.\n\nProject details ↗\n\n\nCompleted · H2020\n\nWATERAGRI\n\n\nWithin this project, I created an ISSH model in HydroGeoSphere for an agricultural catchment with a data assimilation framework.\n\nProject website ↗"
+  },
+  {
+    "objectID": "pub.html",
+    "href": "pub.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Research output"
+  },
+  {
+    "objectID": "pub.html#selected-publications",
+    "href": "pub.html#selected-publications",
+    "title": "Publications",
+    "section": "Selected publications",
+    "text": "Selected publications\n\n\n2024\n\n\nResearch outputs in climate, water, and agricultural systems\n\n\nAdd publication title, authors, journal, and links here.\n\n\n\n\n2023\n\n\nResearch outputs from the WATERAGRI project\n\n\nAdd publication title, authors, journal, and links here."
+  },
+  {
+    "objectID": "pub.html#profiles",
+    "href": "pub.html#profiles",
+    "title": "Publications",
+    "section": "Profiles",
+    "text": "Profiles\n\nResearchGate\nGoogle Scholar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arkadiusz Glogowski",
+    "section": "",
+    "text": "Researcher · developer · collaborator\n\n\n\nI work at the intersection of biometeorology, hydrology, and reproducible environmental data. My research connects long-term climate records with practical tools for understanding and managing agricultural landscapes.\n\nExplore publications ↗ ResearchGate ↗\n\n\n\n\n\nCurrently\n\n\nPostdoc\n\n\nUniversity of Basel, CH\n\n\nAssistant Professor\n\n\nWroclaw University of Environmental and Life Sciences, PL"
+  },
+  {
+    "objectID": "index.html#research-interest",
+    "href": "index.html#research-interest",
+    "title": "Arkadiusz Glogowski",
+    "section": "Research interest",
+    "text": "Research interest\nMy research and interests in the past were related to Biometeorology and Climate Change where I created a 3-D phase space model based on 120-year meteorological measurements, which allowed to develop an algorithm for reconstructing the biometeorological conditions for places without measurements history. Then I was involved in the H2020 WATERAGRI project, where I was responsible for creating ISSH model in HydroGeoSphere for an agricultural catchment with a data assimilation framework.\nI am currently working on sustainable nitrogen fertilization for agricultural crops as a part of SUNIMO project and the creation of a European database for Agricultural management using AI (FARMWISE - HORIZON EUROPE).\nI am also a developer of R package Climate, which allows users to obtain in-situ meteorological and hydrological data from publicly available repositories."
+  },
+  {
+    "objectID": "index.html#at-a-glance",
+    "href": "index.html#at-a-glance",
+    "title": "Arkadiusz Glogowski",
+    "section": "At a glance",
+    "text": "At a glance\n\n\n120 years of meteorological measurements modelled\n\n\n3-D phase space approach to biometeorology\n\n\nR open-source tools for environmental data"
+  },
+  {
+    "objectID": "index.html#academic-appointments",
+    "href": "index.html#academic-appointments",
+    "title": "Arkadiusz Glogowski",
+    "section": "Academic appointments",
+    "text": "Academic appointments\n\n\n\nPeriod\nRole\n\n\n\n\nSince 2024\nPostdoc, University of Basel, CH\n\n\nSince 2024\nAssistant Professor, Wroclaw University of Environmental and Life Sciences, PL\n\n\n2020 - 2023\nAssistant Professor, Wroclaw University of Environmental and Life Sciences, PL; WATERAGRI HORIZON 2020 project\n\n\n2016 - 2022\nPhD Student, Wroclaw University of Environmental and Life Sciences, PL"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Arkadiusz Glogowski",
+    "section": "Education",
+    "text": "Education\n\n\n\nPeriod\nDegree\n\n\n\n\n2016 - 2021\nPhD in Bioclimatology, UPWR, PL\n\n\n2011 - 2016\nBSc & MSc in Water Management, UPWR, PL"
+  },
+  {
+    "objectID": "index.html#fellowships-and-awards",
+    "href": "index.html#fellowships-and-awards",
+    "title": "Arkadiusz Glogowski",
+    "section": "Fellowships and awards",
+    "text": "Fellowships and awards\n\n01-07.2021 - Internship at Universite de Neuchatel, founded by WATERAGRI and UPWR\n03.2020 - Internship at the University of Edinburgh, NAWA-PROM\n08.2019 - Internship at the University of Edinburgh, UPWR\n04-05.2019 - Internship at the University of Edinburgh, UPWR"
   }
 ]

@@ -10,22 +10,32 @@ description: "Research projects in climate, water, and sustainable agriculture."
 My work brings together climate data, hydrological models, agricultural management, and decision-support tools.
 
 ::: {.project-list}
+
 ::: {.project}
+
 <span class="project-status">Current · HORIZON EUROPE</span>
 <h2>FARMWISE</h2>
 <p>Creation of a European database for agricultural management using artificial intelligence.</p>
 <a class="text-link" href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/986100255/project/101135533/program/43108390/details">Project details ↗</a>
+
 :::
-::: {.project project-accent}
+
+::: {.project .project-accent}
+
 <span class="project-status">Current · NCN OPUS LAP</span>
 <h2>SUNIMO</h2>
 <p>Sustainable nitrogen fertilization for agricultural crops, connecting field practice with better environmental evidence.</p>
 <a class="text-link" href="https://www.ncn.gov.pl/en/aktualnosci/2023-07-26-wyniki-opus-lap-szwajcaria">Project details ↗</a>
+
 :::
-::: {.project project-muted}
+
+::: {.project .project-muted}
+
 <span class="project-status">Completed · H2020</span>
 <h2>WATERAGRI</h2>
 <p>Within this project, I created an ISSH model in HydroGeoSphere for an agricultural catchment with a data assimilation framework.</p>
 <a class="text-link" href="https://wateragri.eu/">Project website ↗</a>
+
 :::
+
 :::

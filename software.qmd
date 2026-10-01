@@ -12,33 +12,50 @@ I build tools that make environmental data easier to find, inspect, and use in r
 ## Climate
 
 ::: {.software-feature}
+
 ::: {.software-mark}
+
 R
+
 :::
+
 ::: {.software-copy}
+
 <p class="software-kicker">R package · open source</p>
 <h2>Climate</h2>
 <p>Obtain in-situ meteorological and hydrological data from publicly available repositories. The package is designed to make common climate data workflows more direct and reproducible.</p>
 <a class="button-link" href="https://github.com/bczernecki/climate">View on GitHub <span>↗</span></a>
+
 :::
+
 :::
 
 ## What I care about in software
 
 ::: {.principle-grid}
+
 ::: {.principle}
+
 <span class="principle-index">01</span>
 <h3>Reproducibility</h3>
 <p>Clear workflows that can be revisited, shared, and extended.</p>
+
 :::
+
 ::: {.principle}
+
 <span class="principle-index">02</span>
 <h3>Access</h3>
 <p>Public data and open tools that lower the barrier to environmental analysis.</p>
+
 :::
+
 ::: {.principle}
+
 <span class="principle-index">03</span>
 <h3>Practicality</h3>
 <p>Software shaped by real research questions and working datasets.</p>
+
 :::
+
 :::
